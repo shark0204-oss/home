@@ -1,0 +1,12 @@
+node_modules/
+target/
+.DS_Store
+.env
+.env.*
+*.key
+*.pem
+*.pfx
+*.log
+app/dist/
+app/src-tauri/resources/ffmpeg.exe
+app/src-tauri/resources/ffprobe.exe
